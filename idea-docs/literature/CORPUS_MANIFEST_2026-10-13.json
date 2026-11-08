@@ -1,0 +1,208 @@
+{
+  "review_date": "2026-10-13",
+  "paper_count": 20,
+  "total_pdf_pages": 496,
+  "note": "PDF pages include references and appendices; count is not a claim of line-by-line proof or appendix verification.",
+  "records": [
+    {
+      "id": "P01",
+      "file": "P01_Progent.pdf",
+      "path": "C:/Users/canba/Desktop/university/thesis/reference/authorization-papers/P01_Progent.pdf",
+      "title_from_pdf_metadata": "Progent: Securing AI Agents with Privilege Control",
+      "page_count": 17,
+      "arxiv_version_from_first_page": "2504.11703v3",
+      "sha256": "6b96e0a25ddd5df8afc368e8f8f3798bf911caf40db23945617cc5d1f2f36f26",
+      "review_status": "Full-text methods/results/limitations review with targeted appendix checks; not reproduced"
+    },
+    {
+      "id": "P02",
+      "file": "P02_Intent-Governed.pdf",
+      "path": "C:/Users/canba/Desktop/university/thesis/reference/authorization-papers/P02_Intent-Governed.pdf",
+      "title_from_pdf_metadata": "Intent-Governed Tool Authorization for AI Agents",
+      "page_count": 34,
+      "arxiv_version_from_first_page": "2606.22916v4",
+      "sha256": "97a7de259fd3fc8c310e7af2e8b0b5bb892097ac345224e0a6deca3ed3be7568",
+      "review_status": "Full-text methods/results/limitations review with targeted appendix checks; not reproduced"
+    },
+    {
+      "id": "P03",
+      "file": "P03_MiniScope.pdf",
+      "path": "C:/Users/canba/Desktop/university/thesis/reference/authorization-papers/P03_MiniScope.pdf",
+      "title_from_pdf_metadata": "MiniScope: Authorizing Agents with Least-Privilege Permissions",
+      "page_count": 21,
+      "arxiv_version_from_first_page": "2512.11147v2",
+      "sha256": "8475df4769bfa8169dd1f232b60e1d67b197d9ac4bbd8fef86ab846db4328355",
+      "review_status": "Full-text methods/results/limitations review with targeted appendix checks; not reproduced"
+    },
+    {
+      "id": "P04",
+      "file": "P04_Contextual-Agent-Sec.pdf",
+      "path": "C:/Users/canba/Desktop/university/thesis/reference/authorization-papers/P04_Contextual-Agent-Sec.pdf",
+      "title_from_pdf_metadata": "Contextual Agent Security: A Policy for Every Purpose",
+      "page_count": 10,
+      "arxiv_version_from_first_page": "2501.17070v3",
+      "sha256": "717806ae0de0296e87aa9888624c2f203361cc5b57e229ef64885c3974795e83",
+      "review_status": "Full-text methods/results/limitations review with targeted appendix checks; not reproduced"
+    },
+    {
+      "id": "P05",
+      "file": "P05_AgentSpec.pdf",
+      "path": "C:/Users/canba/Desktop/university/thesis/reference/authorization-papers/P05_AgentSpec.pdf",
+      "title_from_pdf_metadata": "AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents",
+      "page_count": 12,
+      "arxiv_version_from_first_page": "2503.18666v3",
+      "sha256": "a8ef39247392eb49e275768c19aca11a111c997e432225dcbcf74dfbf31abae7",
+      "review_status": "Full-text methods/results/limitations review with targeted appendix checks; not reproduced"
+    },
+    {
+      "id": "P06",
+      "file": "P06_Formal-Policy.pdf",
+      "path": "C:/Users/canba/Desktop/university/thesis/reference/authorization-papers/P06_Formal-Policy.pdf",
+      "title_from_pdf_metadata": "Formal Policy Enforcement for Real-World Agentic Systems",
+      "page_count": 36,
+      "arxiv_version_from_first_page": "2602.16708v3",
+      "sha256": "3700a28b47d3866cf3994250349c1b5c755d145d072ed0b77a73c9b3ad2a2859",
+      "review_status": "Full-text methods/results/limitations review with targeted appendix checks; not reproduced"
+    },
+    {
+      "id": "P07",
+      "file": "P07_ActGov.pdf",
+      "path": "C:/Users/canba/Desktop/university/thesis/reference/authorization-papers/P07_ActGov.pdf",
+      "title_from_pdf_metadata": "ActGov: Governing LLM Agent Actions via Policy-Constrained Validation",
+      "page_count": 15,
+      "arxiv_version_from_first_page": "2609.24446v2",
+      "sha256": "cc0b1621c36d984856a26962dfeef4bd8d35bb5bcce093fc1af0480ba75cbb3c",
+      "review_status": "Full-text methods/results/limitations review with targeted appendix checks; not reproduced"
+    },
+    {
+      "id": "P08",
+      "file": "P08_Evolvent-AI.pdf",
+      "path": "C:/Users/canba/Desktop/university/thesis/reference/authorization-papers/P08_Evolvent-AI.pdf",
+      "title_from_pdf_metadata": "Do Coding Agents Understand Least-Privilege Authorization?",
+      "page_count": 37,
+      "arxiv_version_from_first_page": "2605.14859v2",
+      "sha256": "ad6addfd676e6f6bd6a6d5e7cf7e95cfac82414918ac0793e7297ae76147a550",
+      "review_status": "Full-text methods/results/limitations review with targeted appendix checks; not reproduced"
+    },
+    {
+      "id": "P09",
+      "file": "P09_Hybrid-zero-trust-ai.pdf",
+      "path": "C:/Users/canba/Desktop/university/thesis/reference/authorization-papers/P09_Hybrid-zero-trust-ai.pdf",
+      "title_from_pdf_metadata": "Hybrid Inspection and Task-Based Access Control in Zero-Trust Agentic AI",
+      "page_count": 35,
+      "arxiv_version_from_first_page": "2605.02682v1",
+      "sha256": "42e8ff6bb08d5f8456099b1cec5419038a86f6029186773bb24e6b3926c4f878",
+      "review_status": "Full-text methods/results/limitations review with targeted appendix checks; not reproduced"
+    },
+    {
+      "id": "P10",
+      "file": "P10_Delegated-Authorization.pdf",
+      "path": "C:/Users/canba/Desktop/university/thesis/reference/authorization-papers/P10_Delegated-Authorization.pdf",
+      "title_from_pdf_metadata": "Delegated Authorization for Agents Constrained to Semantic Task-to-Scope Matching",
+      "page_count": 18,
+      "arxiv_version_from_first_page": "2510.26702v1",
+      "sha256": "6fc36444bf9a7463d9d43392eac77791cada13cc49fc6b03f34d4d2fdffe8792",
+      "review_status": "Full-text methods/results/limitations review with targeted appendix checks; not reproduced"
+    },
+    {
+      "id": "P11",
+      "file": "P11_Verifier-Tax.pdf",
+      "path": "C:/Users/canba/Desktop/university/thesis/reference/authorization-papers/P11_Verifier-Tax.pdf",
+      "title_from_pdf_metadata": "The Verifier Tax: Horizon Dependent Safety Success Tradeoffs in Tool Using LLM Agents",
+      "page_count": 14,
+      "arxiv_version_from_first_page": "2603.19328v1",
+      "sha256": "96cef1da0e9ee9de44ee2e073979b36991c21686ee0f5837bfcd4868002e1ead",
+      "review_status": "Full-text methods/results/limitations review with targeted appendix checks; not reproduced"
+    },
+    {
+      "id": "P12",
+      "file": "P12_CriticTool.pdf",
+      "path": "C:/Users/canba/Desktop/university/thesis/reference/authorization-papers/P12_CriticTool.pdf",
+      "title_from_pdf_metadata": "CRITICTOOL: Evaluating Self-Critique Capabilities of Large Language Models in Tool-Calling Error Scenarios",
+      "page_count": 32,
+      "arxiv_version_from_first_page": "2506.13977v1",
+      "sha256": "254c35e988f3fa996fc41cded076b8346ed274d6a1d7f68ad5dfc052cd698274",
+      "review_status": "Full-text methods/results/limitations review with targeted appendix checks; not reproduced"
+    },
+    {
+      "id": "P13",
+      "file": "P13_When-Tools-Fail.pdf",
+      "path": "C:/Users/canba/Desktop/university/thesis/reference/authorization-papers/P13_When-Tools-Fail.pdf",
+      "title_from_pdf_metadata": "When Tools Fail: Benchmarking Dynamic Replanning and Anomaly Recovery in LLM Agents",
+      "page_count": 38,
+      "arxiv_version_from_first_page": "2606.05806v1",
+      "sha256": "d62361bf89b15e47d12741cee7848c358f0e6bb939bf93e456e6cc3e0711d70f",
+      "review_status": "Full-text methods/results/limitations review with targeted appendix checks; not reproduced"
+    },
+    {
+      "id": "P14",
+      "file": "P14_Causality-Laundering.pdf",
+      "path": "C:/Users/canba/Desktop/university/thesis/reference/authorization-papers/P14_Causality-Laundering.pdf",
+      "title_from_pdf_metadata": "Causality Laundering: Denial-Feedback Leakage in Tool-Calling LLM Agents",
+      "page_count": 24,
+      "arxiv_version_from_first_page": "2604.04035v1",
+      "sha256": "4ffc1ae757e834f8a5319bf2e7c2bb174f078d79df687a76e2d0dfa270159a94",
+      "review_status": "Full-text methods/results/limitations review with targeted appendix checks; not reproduced"
+    },
+    {
+      "id": "P15",
+      "file": "P15_ToolMisuseBench.pdf",
+      "path": "C:/Users/canba/Desktop/university/thesis/reference/authorization-papers/P15_ToolMisuseBench.pdf",
+      "title_from_pdf_metadata": "ToolMisuseBench: An Offline Deterministic Benchmark for Tool Misuse and Recovery in Agentic Systems",
+      "page_count": 4,
+      "arxiv_version_from_first_page": "2604.01508v1",
+      "sha256": "589d9b2d9081601de27b3ef51cc69e788ada71206d13a843272cd8a6b958aa5b",
+      "review_status": "Full-text methods/results/limitations review with targeted appendix checks; not reproduced"
+    },
+    {
+      "id": "P16",
+      "file": "P16_When-Tool-Outputs-Become-Commands.pdf",
+      "path": "C:/Users/canba/Desktop/university/thesis/reference/authorization-papers/P16_When-Tool-Outputs-Become-Commands.pdf",
+      "title_from_pdf_metadata": "When Tool Outputs Become Commands: Separating Action Induction from Runtime Authorization in Tool-Augmented LLM Agents",
+      "page_count": 17,
+      "arxiv_version_from_first_page": "2608.27146v1",
+      "sha256": "acb6f5aae45da095c08f23ca6f472045be763bd8cdc19a6230ea270bb76ebe62",
+      "review_status": "Full-text methods/results/limitations review with targeted appendix checks; not reproduced"
+    },
+    {
+      "id": "P17",
+      "file": "P17_Agent-Boundary.pdf",
+      "path": "C:/Users/canba/Desktop/university/thesis/reference/authorization-papers/P17_Agent-Boundary.pdf",
+      "title_from_pdf_metadata": "AgentBoundary: Counterfactual Evaluation of Safety in Tool-Using LLM Agents",
+      "page_count": 31,
+      "arxiv_version_from_first_page": "2609.33658v1",
+      "sha256": "4961293a41c153177357a3ea2388117ecb8467579ae06f7b793e9d46ab0c5fc9",
+      "review_status": "Full-text methods/results/limitations review with targeted appendix checks; not reproduced"
+    },
+    {
+      "id": "P18",
+      "file": "P18_Act-On-Your-Behalf.pdf",
+      "path": "C:/Users/canba/Desktop/university/thesis/reference/authorization-papers/P18_Act-On-Your-Behalf.pdf",
+      "title_from_pdf_metadata": null,
+      "page_count": 25,
+      "arxiv_version_from_first_page": null,
+      "sha256": "b248c9e59993687196727274a9e09d4a38a3b48ffba4d207a36c4ca39299f595",
+      "review_status": "Full-text methods/results/limitations review with targeted appendix checks; not reproduced"
+    },
+    {
+      "id": "P19",
+      "file": "P19_AgentDojo.pdf",
+      "path": "C:/Users/canba/Desktop/university/thesis/reference/authorization-papers/P19_AgentDojo.pdf",
+      "title_from_pdf_metadata": null,
+      "page_count": 26,
+      "arxiv_version_from_first_page": "2406.13352v3",
+      "sha256": "349884fffbf43282591c5accffd57bb651632f38e412fe303114941bdd111b05",
+      "review_status": "Full-text methods/results/limitations review with targeted appendix checks; not reproduced"
+    },
+    {
+      "id": "P20",
+      "file": "P20_t-Bench.pdf",
+      "path": "C:/Users/canba/Desktop/university/thesis/reference/authorization-papers/P20_t-Bench.pdf",
+      "title_from_pdf_metadata": null,
+      "page_count": 50,
+      "arxiv_version_from_first_page": "2406.12045v1",
+      "sha256": "0ce66a1763d698c61bb311c3c874bf593d1e9a5bfff11bb35f6f72b981f6da56",
+      "review_status": "Full-text methods/results/limitations review with targeted appendix checks; not reproduced"
+    }
+  ]
+}
